@@ -1,0 +1,11 @@
+{
+    "require": {
+        "rueckgrat": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://lyjen@bitbucket.org/FFUF/ffuf-rueckgrat.git"
+        }
+    ]
+}
